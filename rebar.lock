@@ -1,0 +1,8 @@
+[{<<"enif_protobuf">>,
+  {git,"https://github.com/jg513/enif_protobuf.git",
+       {ref,"17d82dbe204478e35a9aff584c4c119f8b1eed56"}},
+  0},
+ {<<"gpb">>,
+  {git,"https://github.com/tomas-abrahamsson/gpb.git",
+       {ref,"5d5f49ba56b884a92a9eb996971871cf97a5c0f0"}},
+  1}].

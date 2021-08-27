@@ -1,0 +1,3 @@
+
+-define(OK, ok).
+
